@@ -1,0 +1,24 @@
+{
+  "name": "gh-pages-dynamic-nuxt-routes",
+  "version": "1.0.0",
+  "description": "Use Nuxt's dynamic routes with GitHub Pages.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mktcode/gh-pages-dynamic-nuxt-routes.git"
+  },
+  "keywords": [
+    "nuxt",
+    "vue",
+    "github",
+    "pages",
+    "dynamic",
+    "router"
+  ],
+  "author": "mktcode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mktcode/gh-pages-dynamic-nuxt-routes/issues"
+  },
+  "homepage": "https://github.com/mktcode/gh-pages-dynamic-nuxt-routes#readme"
+}
